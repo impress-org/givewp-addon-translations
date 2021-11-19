@@ -1,0 +1,1 @@
+Use this file to explain how to use the translation files
