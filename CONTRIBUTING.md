@@ -1,0 +1,1 @@
+Use this file to explain to folks how to contribute translations using PRs
